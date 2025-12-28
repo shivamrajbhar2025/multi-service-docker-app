@@ -1,0 +1,19 @@
+# Node
+node_modules
+dist
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Git
+.git
+
+# OS
+.DS_Store
+
+# Docker
+postgres_data
